@@ -8,4 +8,4 @@ The goals are to:
 - Evaluate the performance of machine learning models.
 
 I will use the imbalanced-learn library to resample the data and build and evaluate logistic regression classifiers using the resampled data.
-Please look into the Jupyter Notebook files to see the code, models, and brief summary and analysis of the models’ performance. 
+Please look in the Jupyter Notebook files to see the code, models, and brief summary and analysis of the models’ performance. 
